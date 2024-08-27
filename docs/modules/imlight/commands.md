@@ -71,7 +71,7 @@ Your command context will not drop. If you select a player, that player will sti
 | currenthealth | Quality Assurance | `.mod currenthealth $newHealth` | Changes your current health value. |
 | currentmana | Quality Assurance | `.mod currentmana $newMana` | Changes your current mana value. |
 | heal | Quality Assurance | `.mod heal` | Heals your wizard to full. |
-| rejuv | Quality Assurance | `.mod rejuv | Fills your wizard's mana to full. |
+| rejuv | Quality Assurance | `.mod rejuv` | Fills your wizard's mana to full. |
 
 ## Spellbook Commands
 | Command | Security | Syntax | Description |
